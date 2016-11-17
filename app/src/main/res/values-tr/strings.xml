@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="navigation_drawer_close">Navigasyon çekmecesini kapat</string>
+    <string name="navigation_drawer_open">Navigasyon çekmecesini aç</string>
+</resources>
